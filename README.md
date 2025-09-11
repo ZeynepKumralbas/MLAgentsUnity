@@ -4,5 +4,7 @@ mlagents-learn config/toTarget_config.yaml --force --run-id=toTarget_multiple
 
 tensorboard --logdir results --port 6006
 
-<img src="images/ToyExample1.png" alt="Example 1" width="600"/>
+<img src="images/ToyExample1.png" alt="Example 1" width="400"/>
+<img src="images/ToyExample2.png" alt="Example 2" width="400"/>
+
 
