@@ -37,7 +37,7 @@
 
 ### Experiments & Results
 <p align="center">
-    <img src="images/Reward_withObstacles.png" alt="Reward Graph" width="400"/>
+    <img src="images/Reward_withObstacles.png" alt="Reward Graph"/>
     <br/><em>Figure 2: The reward graph of RL and IL in the environment shown in Figure 1.</em>
 </p>
 
