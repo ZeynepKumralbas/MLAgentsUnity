@@ -35,7 +35,7 @@
 - **GAIL**: Adversarial training that encourages the agent to generate behaviors indistinguishable from the demonstrations.
 - **RL Fine-tuning**: PPO with extrinsic rewards is applied in parallel, allowing the agent to refine its policy beyond the demonstrations.
 
-### Experiments & Results
+## Experiments & Results
 <p align="center">
     <img src="images/Reward_withObstacles.png" alt="Reward Graph"/>
     <br/><em>Figure 2: The cumulative reward graph of RL and IL in the environment shown in Figure 1.</em>
@@ -49,7 +49,7 @@
 - Expected to achieve faster results, but in practice underperformed compared to RL.
 - Likely due to insufficient demonstrations and untuned parameters.
 
-### Next steps: 
+## Next steps: 
 - Parameter tuning
 - More complex environments
 
